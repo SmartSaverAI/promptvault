@@ -1,3 +1,3 @@
 # PromptVault
 
-This is a placeholder README for PromptVault.
+This is the English version of PromptVault with frontend and backend.
