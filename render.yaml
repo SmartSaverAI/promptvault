@@ -4,6 +4,6 @@ services:
     env: node
     plan: starter 
     region: oregon
-    rootDir: backend/backend
+    rootDir: backend
     buildCommand: npm install
     startCommand: node server.js
