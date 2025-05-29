@@ -2,7 +2,7 @@ services:
   - type: web
     name: promptvault
     env: node
-    plan: starter
+    plan: starter 
     region: oregon
     rootDir: backend/backend
     buildCommand: npm install
