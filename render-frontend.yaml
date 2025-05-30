@@ -1,0 +1,9 @@
+services:
+  - type: static
+    name: promptvault-frontend
+    env: static
+    plan: free
+    region: global
+    buildCommand: ""
+    staticPublishPath: frontend
+    branch: main
